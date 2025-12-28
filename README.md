@@ -32,6 +32,15 @@ The script generates a multi-sheet Excel file including:
 - Monthly performance metrics
 - Category-level performance
 
+## Screenshot of the Excel output tabs (Summary/Daily/Monthly/Category)
+<img width="424" height="267" alt="image" src="https://github.com/user-attachments/assets/2f5e149d-87fa-4eed-a25a-0843b639e79a" />
+
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/8a36cb05-85db-41d7-b06d-ac2092018be0" />
+
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/cfdbe2d4-0ed2-41fc-9455-a9822d0ad405" />
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/67cc16af-7060-41eb-b200-84b8290fd9e1" />
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
