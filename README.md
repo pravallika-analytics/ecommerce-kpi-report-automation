@@ -32,5 +32,6 @@ The script generates a multi-sheet Excel file including:
 
 ## How to Run
 ```bash
-pip install pandas XlsxWriter
-python generate_ecommerce_kpi_report.py
+pip install -r requirements.txt
+python Ecommerce-KPI-Report-Automation.py
+
