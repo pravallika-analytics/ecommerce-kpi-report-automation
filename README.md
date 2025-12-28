@@ -8,10 +8,12 @@ This project automates the generation of recurring ecommerce KPI reports using P
 ## Business Problem
 Operations and analytics teams often spend time manually preparing recurring performance reports. This automation reduces manual effort, improves consistency, and enables faster access to insights.
 
+## Requirements
+pandas
+xlsxwriter
+
 ## Tools & Technologies
 - Python
-- Pandas
-- XlsxWriter
 - Excel
 
 ## KPIs Generated
@@ -34,4 +36,6 @@ The script generates a multi-sheet Excel file including:
 ```bash
 pip install -r requirements.txt
 python Ecommerce-KPI-Report-Automation.py
+
+
 
